@@ -40,10 +40,10 @@ The Ubuntu Desktop default set of installed packages does not include basic deve
 
 This documentation provides guidance on how to install and set up the following toolchains provided by Ubuntu:
 
-* Python
+* Python: [How to set up development environment for Python on Ubuntu](../howto/python-setup.md)
 * Java: [How to set up development environment for Java on Ubuntu](../howto/java-setup.md)
 * Rust: [How to set up development environment for Rust on Ubuntu](../howto/rust-setup.md)
-* GCC
+* GCC: [How to set up development environment for GCC on Ubuntu](../howto/gcc-setup.md)
 * Golang: [How to set up development environment for Go on Ubuntu](../howto/go-setup.md)
 * .NET: [How to set up development environment for .NET on Ubuntu](../howto/dotnet-setup.md)
 
